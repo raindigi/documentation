@@ -38,7 +38,7 @@ Installing your gems can take quite some time, to save time on consecutive build
 2. Caches that folder based on your Gemfile.lock
 3. When no local gems are found, build your site using the cached installs from your previous builds
 
-To disable this feature, go to *Site Settings / Build. *
+To disable this feature, go to *Site Settings / Build.*
 
 > Older sites on CloudCannon will have this caching disabled to prevent changes to their build environment. Enabling this can greatly improve editing experience.
 {: .explainer}

@@ -28,3 +28,6 @@ To create a branched site:
 3. Enter a name for your *Site*
 
 Once created and initialised, the branched site is edited and published in the same way as any other site.
+
+> A **Main Branch** must be set in the *Project Settings* section in order to create branched sites.
+{: .explainer .warning}

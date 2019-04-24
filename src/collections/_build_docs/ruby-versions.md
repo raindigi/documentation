@@ -18,6 +18,7 @@ Versions installed are:
 4. `2.6.2`
 
 > If you require a Ruby version not listed above, please contact support. We will do our best to accommodate your needs.
+{: .explainer}
 
 ### Setting your version
 
