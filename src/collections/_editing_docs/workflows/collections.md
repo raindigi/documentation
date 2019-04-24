@@ -26,8 +26,6 @@ To create a new collection item:
 
 Your new file is opened in the [Content Editor](/editing/editors/content-editor/). Front matter for the file is populated from [Collection Defaults](/editing/experience/collection-defaults/) or an existing item to keep the structure consistent.
 
-![Creating a new collection item](/images/editing/collections/adding-item.png){: .screenshot srcset="/images/editing/collections/adding-item.png 800w, /images/editing/collections/adding-item@2x.png 1600w"}
-
 There are a number of ways to add content for your new item:
 
 * Type the main content directly onto the page

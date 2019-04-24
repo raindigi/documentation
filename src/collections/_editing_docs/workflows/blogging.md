@@ -39,8 +39,6 @@ Your file is opened in the [Content Editor](/editing/editors/content-editor/). F
 > Draft posts are hidden on your live site unless set otherwise in *Site Settings* / *Build*.
 {: .explainer}
 
-![Creating a new draft](/images/editing/blogging/adding-draft.png){: .screenshot srcset="/images/editing/blogging/adding-draft.png 800w, /images/editing/blogging/adding-draft@2x.png 1600w"}
-
 There are a number of ways to add content for your new draft:
 
 * Type the main content directly onto the page
